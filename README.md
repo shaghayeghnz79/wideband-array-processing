@@ -17,4 +17,4 @@ Experimental results demonstrate that accurate delay estimation and signal align
 This project was developed by:
 
 - Zahra Nazar Zadeh Attar
-- Amirali Askari (@amiraliaskari2014)
+- Amirali Askari (https://github.com/amiraliaskari2014)
